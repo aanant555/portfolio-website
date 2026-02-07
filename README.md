@@ -1,8 +1,6 @@
-# Personal Portfolio Website
+# Personal Portfolio Website - Aanant Chaudhary
 
-A clean and modern portfolio website built with **HTML**, **CSS**, and **JavaScript**. Perfect for showcasing your skills, projects, and getting noticed by recruiters!
-
-🔗 **Live Demo:** [View Portfolio](https://anant11819.github.io/portfolio-website/)
+A clean and modern portfolio website built with **HTML**, **CSS**, and **JavaScript**. Perfect for showcasing your skills, projects, and getting noticed by recruiters
 
 ---
 
@@ -132,8 +130,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Anant**
-- GitHub: [@anant11819](https://github.com/anant11819)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/anant)
+- GitHub: [@anant11819](https://github.com/aanant555)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/anantraj555)
 
 ---
 
